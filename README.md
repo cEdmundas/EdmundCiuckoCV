@@ -1,21 +1,7 @@
-# eci
+# Edmund Ciucko personal website
 
-> EdmundCiucko CV
+This is a simple, personal website built in order to learn VueJS and it's basics.
 
-## Build Setup
+Website should be used as my CV to represent what I've learnt and am learning. 
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Currently it's hosted on Firebase and can be accessed through this [link](https://edmundcv-5ce21.firebaseapp.com/)
